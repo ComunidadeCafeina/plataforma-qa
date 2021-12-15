@@ -9,25 +9,19 @@ Funcionalidade: <Home>
 
 User Story
 Eu  <Cecilia> como usuario do site das Compiladoras de Cafeína
-Quero acessar o cabeçalho
-Para ter acesso aos principais links do site
+Quero acessar "Quero fazer parte"
+Para ser parte da equipe
 
 Contexto:
     Dado que acesso o site da Trios "https://staging-compiladoras.netlify.app/"
-    E visualizo a "logo", "Projetos", "Eventos" e "Redes Sociais"
+    E visualizo a "Quero fazer parte"
 
-ID: CT_001
-Cenario: Inspecionar Cabeçalho
+ID: CT_002
+Cenario: Validar quero fazer parte
 
         Quando acesso o site
-        E clico em "logo", "Projetos", "Eventos" e "Redes Sociais" de Cabeçalho
+        E paro o mouse em "Quero fazer parte"
+        E o coração pulsa
+        E clico no botão
+        Então sou direcionada para o formulário de inscrição
 
-        Então sou direcionada a respectiva funcionalidade
-
-Esquema do Cenário:
-Exemplos:
-|   Link de Cabeçalho   |     Direcionado a      |  
-|Compiladoras de Cafeína|   Não sou direcionada  |
-|        Projetos       |Direcionada ao Carrossel|
-|        Eventos        |   Não sou direcionada  |
-|     Redes Sociais     |  Direcionada ao Rodapé |
