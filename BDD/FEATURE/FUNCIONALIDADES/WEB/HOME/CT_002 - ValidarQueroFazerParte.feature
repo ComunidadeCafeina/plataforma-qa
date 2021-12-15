@@ -20,8 +20,6 @@ ID: CT_002
 Cenario: Validar quero fazer parte
 
         Quando acesso o site
-        E paro o mouse em "Quero fazer parte"
-        E o coração pulsa
-        E clico no botão
+        E clico  em "Quero fazer parte"
         Então sou direcionada para o formulário de inscrição
 
