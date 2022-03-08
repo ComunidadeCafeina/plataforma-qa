@@ -27,7 +27,7 @@ Cenario: Inspecionar Cabeçalho
 Esquema do Cenário:
 Exemplos:
 |   Link de Cabeçalho   |     Direcionado a      |  
-|Compiladoras de Cafeína|   Não sou direcionada  |
-|        Projetos       |Direcionada ao Carrossel|
-|        Eventos        |   Não sou direcionada  |
-|     Redes Sociais     |  Direcionada ao Rodapé |
+|         Logo          |          Home          |
+|        Projetos       |        Projetos        |
+|        Eventos        |    Lista de Eventos    |
+|     Redes Sociais     | Lista de Redes Sociais |
