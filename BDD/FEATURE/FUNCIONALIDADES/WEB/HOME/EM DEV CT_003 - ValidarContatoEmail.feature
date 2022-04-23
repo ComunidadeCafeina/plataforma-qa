@@ -1,19 +1,19 @@
 #language: pt
 #encoding: UTF-8
 #author: Cecilia
-#date: 29/11/2021
-#version: 1.0
+#date: 09/04/2022
+#version: 1.1
 
 
 Funcionalidade: <Home>
 
 User Story
 Eu  <Cecilia> como usuario do site das Compiladoras de Cafeína
-Quero rnviar um email
-Para entrar em contato com a equipe do site
+Quero enviar um email
+Para entrar em contato com a equipe da plataforma
 
 Contexto:
-    Dado que acesso o site da Trios "https://staging-compiladoras.netlify.app/"
+    Dado que acesso o site das Compiladoras de Cafeína "https://staging-compiladoras.netlify.app/"
     E visualizo a o campo de "Contato"
 
 ID: CT_003
